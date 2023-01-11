@@ -1,0 +1,29 @@
+
+p {
+    float: right;
+    margin-top: 0%;
+}
+div {
+    border: 5px ridge black;
+    width: 800px;
+    margin: 0px auto;
+    padding: 2%;
+    box-shadow: 5px 5px 25px 5px;
+    background-color: whitesmoke;
+}
+.h2 {
+text-decoration: underline;
+}
+table,th,td {
+    border: 2px solid black;
+    width: 800px;
+    text-align: center;
+}
+dl { 
+    font-size:x-large;
+   
+}
+h1 {
+    text-align: center;
+    text-decoration: underline;
+}
